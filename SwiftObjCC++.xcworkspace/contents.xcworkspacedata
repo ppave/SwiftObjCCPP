@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:RenderingASceneWithDeferredLightingInSwift/DeferredLighting Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RenderingASceneWithDeferredLightingInObjectiveC/DeferredLighting.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RenderingASceneWithDeferredLightingInCplusplus/DeferredLighting C++.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MigratingOpenGLCodeToMetal/OpenGLToMetal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MixingMetalAndOpenGLRenderingInAView/OpenGLMetalInteroperability.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RenderingTerrainDynamicallyWithArgumentBuffers/DynamicTerrainWithArgumentBuffers.xcodeproj">
+   </FileRef>
+</Workspace>
